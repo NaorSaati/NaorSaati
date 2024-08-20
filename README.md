@@ -9,7 +9,7 @@ My email for naors101@gmail.com
 <table>
     <tbody>
         <tr>
-            <td><a href="https://www.linkedin.com/in/ido-aharon/](https://www.linkedin.com/in/naor-saati-0b70672b6/" target=”_blank”>
+            <td><a href="https://www.linkedin.com/in/naor-saati-0b70672b6/" target=”_blank”>
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
         </tr>
