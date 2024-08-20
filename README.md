@@ -3,7 +3,9 @@ I am Naor, a B.Sc computer science student at Ben-Gurion University.
 
 I’m interested in the ComputerSicence World.
 
-My email for naors101@gmail.com
+My email for contacting: naors101@gmail.com
+
+if you have any questions about my repositories feel free to Ask 😁
 
 ### Connect with me :telephone:
 <table>
