@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am Naor, a B.Sc computer science student at Ben-Gurion University.
+I am Naor, a B.Sc computer science graduate at Ben-Gurion University.
 
-I’m interested in the ComputerSicence World.
+I'm interested in the Computer Science World.
 
 My email for contacting: naors101@gmail.com
 
